@@ -138,6 +138,9 @@ i {
     .new-price {
         font-size: 200%;
     }
+    i {
+        margin-top: 0.8%;
+    }
     .attribution{
         margin: 3% 0;
     }
